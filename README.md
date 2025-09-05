@@ -93,6 +93,15 @@ When you start the app, you’ll see:
 ### ➤ Inserting Data of Various Services  
 ![Services Data](four.png)
 
+### ➤ Inserting Data of Customers
+![Customer Data](two.png)
+
+### ➤ Searching Customer By Code
+![Search Customer](five.png)
+
+### ➤ Deleting Customer By Code
+![Deleting Customer](six.png)
+
 Want to make it better? Fork the repo, open an issue, or submit a PR 🚀
 
 📜 License
