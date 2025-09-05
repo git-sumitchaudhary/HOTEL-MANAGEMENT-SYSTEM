@@ -80,6 +80,25 @@ database_setup.py
 README.md
 ```
 
+## 📸 Screenshots
+
+### ➤ Customer Management  
+![Customer Management](one.png)
+
+### ➤ Inserting data of services opted 
+![Services Opted](three.png)
+
+### ➤ Data of Customers in Database  
+![Customer Table](seven.png)
+
+### ➤ Inserting Data of Various Services  
+![Services Data](four.png)
+
+### ➤ Deleting customer by its code
+![Services Data](six.png)
+
+
+
 ## Contributing
 Feel free to fork this repository, open issues, and submit pull requests. Any contributions are welcome!
 
